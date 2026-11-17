@@ -151,6 +151,6 @@ Nomor dompet mengikuti urutan daftar dompet di kode (0 = Tunai, 1 = GoPay, dan s
 | Peran | Nama |
 |---|---|
 | Analis Masalah | Bernardi |
-| Desainer Algoritma & Tester |Christian|
+| Telegram Bot Maker & Dokumenter |Christian|
 | C++ Programmer |Cleon |
-| Desainer Projek & Dokumenter |Renard|
+| Desainer Projek & Document |Renard|
