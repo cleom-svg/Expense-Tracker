@@ -150,8 +150,7 @@ Nomor dompet mengikuti urutan daftar dompet di kode (0 = Tunai, 1 = GoPay, dan s
 
 | Peran | Nama |
 |---|---|
-| Analis Masalah | ... |
-| Desainer Algoritma & Tester | ... |
-| C++ Programmer | ... |
-| C++ Programmer | ... |
-| Desainer Projek & Dokumenter | ... |
+| Analis Masalah | Bernardi |
+| Desainer Algoritma & Tester |Christian|
+| C++ Programmer |Cleon |
+| Desainer Projek & Dokumenter |Renard|
